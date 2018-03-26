@@ -3,8 +3,8 @@
 ### Day 1: March 26, 2018 
 
 
-**Today's Progress**: 
-**Thoughts**: 
+**Today's Progress**: Completed the Basic JavaScript Tutorial 
+**Thoughts**: A lot of information to take in. Went over some old ground but started grasping the fundamentals of complex variables using objects.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
