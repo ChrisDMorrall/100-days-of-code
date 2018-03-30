@@ -19,9 +19,29 @@ HTTP://chrismorrall.me
 
 ### Day 3: March 28, 2018 
 
-**Today's Progress**:
+**Today's Progress**
+
+Completed the Basic Algos section and started on the Random Quote project
 
 
 **Thoughts**:
 
+I still need to learn a lot more about using JSON objects and defining funtions! 
+
 **Link to work:** 
+
+https://codepen.io/ChrisMorrall/pen/xWpvoR
+
+### Day 4: March 29, 2018 
+
+**Today's Progress**
+
+Caried on with the Random Quote project. Cracked creating a Function with some help from the FCC Forum. 
+
+**Thoughts**:
+
+Twitter Tweet challenging!
+
+### Day 5: March 30, 2018 
+
+**Today's Progress**
