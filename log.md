@@ -55,3 +55,19 @@ Twitter Tweet challenging!
 ### Day 5: March 30, 2018 
 
 **Today's Progress**
+
+Completed the Random Quote Machine. Started the Weather App. More Videos on JavaScript.
+
+**Thoughts**:
+
+Getting the hang of functions and pulling data out of JSON objects.
+
+### Day 6: March 31, 2018 
+
+**Today's Progress**
+
+Continued on Weather Challenge. Nearly done. Just need to add F/C converter.
+
+**Thoughts**
+
+Coming together!
